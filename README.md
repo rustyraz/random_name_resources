@@ -1,7 +1,7 @@
 # random_name_resources
 API to manage random names resources
 
-## I am using nodejs verion 8.4.0
+## I am using nodejs version 8.4.0
 
 ### To run the app
 - "npm install"  
@@ -16,3 +16,6 @@ API to manage random names resources
 ### UPDATE "PATCH" a name by ID > http://localhost:5000/api/names/:nameID
 
 ### DELETE a name by ID > http://localhost:5000/api/names/:nameID
+
+## PENDING
+> Validation of the parameters 
