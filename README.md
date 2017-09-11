@@ -10,6 +10,8 @@ API to manage random names resources
 ### List of name > http://localhost:5000/api/names
 
 ### POST a new name > http://localhost:5000/api/names
+Example of data posted. Should be raw json data
+> { "name": "Peter N." }
 
 ### GET a name by ID > http://localhost:5000/api/names/:nameID
 
@@ -18,4 +20,4 @@ API to manage random names resources
 ### DELETE a name by ID > http://localhost:5000/api/names/:nameID
 
 ## PENDING
-> Validation of the parameters 
+> Validation of the parameters
